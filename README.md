@@ -20,6 +20,6 @@ Este projeto acadêmico representa uma incursão inicial no mundo do desenvolvim
 
 3 - Estilização Simples: Aplicar estilos básicos utilizando CSS para tornar o site visualmente atraente.
 
-4 - Prática de Boas Práticas: Incorporar boas práticas de desenvolvimento web, mesmo em um projeto "cringe", promovendo uma base sólida para futuros trabalhos.
+4 - Prática de Boas Práticas: Incorporar boas práticas de desenvolvimento web, promovendo uma base sólida para futuros trabalhos.
 
-Este projeto representa não apenas a criação de um site de receitas, mas também uma oportunidade de aprender e aplicar conceitos cruciais de desenvolvimento web de forma acessível e descontraída. Espera-se que os usuários desfrutem não apenas das receitas apresentadas,
+Este projeto representa não apenas a criação de um site de receitas, mas também uma oportunidade de aprender e aplicar conceitos cruciais de desenvolvimento web de forma acessível e descontraída. Espera-se que os usuários desfrutem não apenas das receitas apresentadas.
